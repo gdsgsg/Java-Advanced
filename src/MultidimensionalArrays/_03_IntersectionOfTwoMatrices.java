@@ -1,8 +1,7 @@
 package MultidimensionalArrays;
 
-import java.util.Arrays;
 import java.util.Scanner;
-import java.util.Stack;
+
 
 public class _03_IntersectionOfTwoMatrices {
     public static void main(String[] args) {
