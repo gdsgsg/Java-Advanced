@@ -1,3 +1,5 @@
+package SetsAndMapsAdvanced;
+
 import java.util.*;
 
 public class _06_Academy_Graduation {
