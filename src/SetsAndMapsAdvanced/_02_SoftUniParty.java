@@ -20,6 +20,7 @@ public class _02_SoftUniParty {
                 vipGuests.add(input);
             } else {
                 regularGuests.add(input);
+
             }
 
             input = scanner.nextLine();
